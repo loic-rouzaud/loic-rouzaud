@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Développeur<br>👨🏻‍🏫 Accompagnateur pédagogique à Epitech Toulouse
+# 💻 **Développeur**
+# 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
 
 
 ## 🌐 Socials:
