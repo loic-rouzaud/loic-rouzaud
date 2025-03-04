@@ -17,4 +17,4 @@ sujets complexes.
 
 ## 📄 **CV**
 
-![CV-Loïc-Rouzaud](pdf/Loïc-Rouzaud-cv.pdf)
+![CV-Loïc-Rouzaud](https://github.com/loic-rouzaud/loic-rouzaud/blob/main/pdf/Lo%C3%AFc-Rouzaud-cv.pdf)
