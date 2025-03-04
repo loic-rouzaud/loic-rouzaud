@@ -12,9 +12,9 @@ dynamique pour progresser ensemble
 + Comprendre, expliquer, et accompagner les étudiants sur des
 sujets complexes.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loic-rouzaud-614b02202/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loic.rouzaud@epitech.eu)
 
 ## 📄 **CV**
 
-![CV-Loïc-Rouzaud](pdf/Loïc-Rouzaud-cv.pdf)
+<embed src="pdf/Loïc-Rouzaud-cv.pdf" type="application/pdf" width="100%" height="600px">
