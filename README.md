@@ -1,6 +1,7 @@
 # Bienvenue sur mon profil GitHub ! ☁️
 
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=loic-rouzaud.loic-rouzaud&left_color=green&right_color=red)
+Je m'appelle Loïc Rouzaud, je suis un développeur, passionné de musique et de guitare depuis plus de 10ans, \
+j'aime les défis techniques et apprendre en créant !
 
 ## 💻 **Développeur**
 
