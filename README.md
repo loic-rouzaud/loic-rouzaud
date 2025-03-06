@@ -5,9 +5,8 @@ j'aime les défis techniques et apprendre en créant !
 
 ## 💻 **Développeur**
 
-Développeur Full Stack diplômé, j'aime les défis techniques
-et apprendre en créant des applications. Compétent en
-Python, React et DevOps, je cherche à rejoindre une équipe
+Développeur Full Stack, je serai diplômé en septembre 2025. \
+Compétent en Python, React et DevOps, je cherche à rejoindre une équipe
 dynamique pour progresser ensemble
 
 ## 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
