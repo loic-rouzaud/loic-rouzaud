@@ -12,11 +12,11 @@ dynamique pour progresser ensemble.
 ## 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
 
 + Accompagnement lors des piscines des étudiants
-  - (python, java, react, adminSys).
+  - (python, java, javascript, adminSys).
 
 
 + Suivi de projets et corrections de projets complets.
-  - (front, back, db, api, mobile, web, jexu-vidéos)
+  - (front, back, db, api, mobile, web, jeux-vidéos)
 
 
 + Comprendre, expliquer, et accompagner les étudiants sur des
