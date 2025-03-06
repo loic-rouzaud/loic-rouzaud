@@ -18,3 +18,5 @@ sujets complexes.
 ## 📄 **CV**
 
 ![CV-Loïc-Rouzaud](https://github.com/loic-rouzaud/loic-rouzaud/blob/main/pdf/Lo%C3%AFc-Rouzaud-cv.pdf)
+
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=loic-rouzaud.loic-rouzaud)
