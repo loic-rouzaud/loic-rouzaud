@@ -1,3 +1,7 @@
+# Bienvenue sur mon profil GitHub ! ☁️
+
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=loic-rouzaud.loic-rouzaud&left_color=green&right_color=red)
+
 ## 💻 **Développeur**
 
 Développeur Full Stack diplômé, j'aime les défis techniques
@@ -18,5 +22,3 @@ sujets complexes.
 ## 📄 **CV**
 
 ![CV-Loïc-Rouzaud](https://github.com/loic-rouzaud/loic-rouzaud/blob/main/pdf/Lo%C3%AFc-Rouzaud-cv.pdf)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
