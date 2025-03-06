@@ -5,12 +5,12 @@ j'aime les défis techniques et apprendre en créant !
 
 ## 💻 **Développeur**
 
-Développeur Full Stack, je serai diplômé en septembre 2025 du Programme Grande École d'Epitech Toulouse.\
+Développeur Full Stack, je serai diplômé en septembre 2025 du Programme Grande École d'Epitech Toulouse.
   - Expert en technologies de l'information
-  - Titre RNCP niveau 7 \
+  - Titre RNCP niveau 7
 
 
-Compétent en Python, React et DevOps, je cherche à rejoindre une équipe \
+Compétent en Python, React et DevOps, je cherche à rejoindre une équipe
 dynamique pour progresser ensemble.
 
 ## 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
