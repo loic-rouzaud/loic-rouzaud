@@ -6,13 +6,19 @@ j'aime les défis techniques et apprendre en créant !
 ## 💻 **Développeur**
 
 Développeur Full Stack, je serai diplômé en septembre 2025. \
-Compétent en Python, React et DevOps, je cherche à rejoindre une équipe
-dynamique pour progresser ensemble
+Compétent en Python, React et DevOps, je cherche à rejoindre une équipe \
+dynamique pour progresser ensemble.
 
 ## 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
 
-+ Accompagnement lors des piscines des étudiants.
++ Accompagnement lors des piscines des étudiants
+  - (python, java, react, adminSys).
+
+
 + Suivi de projets et corrections de projets complets.
+  - (front, back, db, api, mobile, web, jexu-vidéos)
+
+
 + Comprendre, expliquer, et accompagner les étudiants sur des
 sujets complexes.
 
