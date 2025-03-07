@@ -13,7 +13,7 @@ Développeur Full Stack, je serai diplômé en septembre 2025 du Programme Grand
 Compétent en Python, React et DevOps, je cherche à rejoindre une équipe
 dynamique pour progresser ensemble.
 
-## 👨🏻‍🏫 **Accompagnateur pédagogique à Epitech Toulouse**
+## 👨🏻‍🏫 **Actuellement accompagnateur pédagogique à Epitech Toulouse**
 
 + Accompagnement lors des piscines des étudiants
   - (python, java, javascript, adminSys).
