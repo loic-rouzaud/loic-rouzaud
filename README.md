@@ -19,7 +19,7 @@ dynamique pour progresser ensemble.
   - (python, java, javascript, adminSys).
 
 
-+ Suivi de projets et corrections de projets complets.
++ Suivi et corrections de projets complets.
   - (front, back, db, api, mobile, web, jeux-vidéos)
 
 
